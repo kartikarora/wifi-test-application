@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Wifi Test Application</string>
+    <string-array name="wifi_ssid_suggestions">
+        <item>QF-Guest</item>
+        <item>AP241-site1</item>
+        <item>AP241-site2</item>
+        <item>AP241-site3</item>
+        <item>V Guest</item>
+        <item>Bluebox Wow</item>
+    </string-array>
+</resources>
